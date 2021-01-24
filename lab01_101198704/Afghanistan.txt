@@ -1,0 +1,7 @@
+Afghanistan
+country : ,Afghanistan,undefined
+year,2008,undefined
+population,34 million,undefined
+country : ,Afghanistan,undefined
+year,2020,undefined
+population,36 million,undefined
